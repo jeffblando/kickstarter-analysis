@@ -7,10 +7,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-    - ![chart of outcomes based on launch date] (https://github.com/jeffblando/kickstarter-analysis/blob/c40a170af03072946ea9792e3ab3ac5aa157d788/Resources/Theater_Outcomes_vs_Launch.png)
+![outcomes based on launch date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-    -![chart of outcomes based on goalds](https://github.com/jeffblando/kickstarter-analysis/blob/c40a170af03072946ea9792e3ab3ac5aa157d788/Resources/Outcomes_vs_goals.png)
+![outcomes of goals](Outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 
