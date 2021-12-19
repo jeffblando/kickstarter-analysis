@@ -13,8 +13,7 @@ We created a pivot table of our Kickstarter data. We filtered the data based on 
 
 **Figure 1**: Line graph of the relationship between the campaign launch date and campaign outcomes for the theater category.
 
-![outcomes based on launch date](Theater_Outcomes_vs_Launch.png)
-
+![outcomes based on launch date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -22,7 +21,7 @@ We created a new table based on goal amounts in increments of $5000. Using the c
 
 **Figure 2**: Line graph of the relationship between Campaign funding goal amounts and campaign outcomes.
 
-![outcomes of goals](Outcomes_vs_goals.png)
+![outcomes of goals](Resources/Outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the challenges faced with doing this analysis was learning how to use unfamiliar functions of excel. To efficiently analyze the data it was required to use functions such as the year conversion to change the date from epoch to gregorian. The use of countifs and learning to use pivot tables to filter the data were also new.
