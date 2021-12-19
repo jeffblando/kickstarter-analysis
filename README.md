@@ -8,10 +8,14 @@ Our client Louise’s play *Fever* came close to its Kickstarter fundraising goa
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-In figure 1, we created a line graph of the data of outcomes
+In figure 1 below, we created a line graph of the data of outcomes based on the launch date.
+
+**Figure 1.**
+
+![outcomes based on launch date](Resources/Theater_Outcomes_vs_Launch.png)
 
 In order to look at the data by launch date, it is necessary to convert the time to a more easily readable format. 
-![outcomes based on launch date](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 ![outcomes of goals](Resources/Outcomes_vs_goals.png)
